@@ -14,7 +14,7 @@ def rd(i, ai):
 # 这里是帮助列表
 def help():
     print("==========================")
-    print("程序版本：0.0.6")
+    print("程序版本：0.0.7_python")
     print("帮助列表：")
     print("注意：不支持简写，会报错，请时刻使用全写")
     print("注意：未使用.或。作为前缀的内容都会被认为是内心独白或对话，不会响应")
@@ -46,6 +46,7 @@ def helppc():
     print(".pc del\t\t删除角色卡，角色名字必须在del后空一空格输入")
     print(".pc new\t\t新建角色卡，角色名字必须在new后空一空格输入")
     print(".pc nn\t\t改名，角色名字必须在nn后空一空格输入")
+    print(".pc show\t\t显示本地所有的角色卡，不需要加任何参数")
     print(".pc tag\t\t更换角色卡，角色名字必须在tag后空一空格输入")
     print("==========================\n")
 
@@ -499,6 +500,14 @@ if __name__ == "__main__":
                             record.write("%s 删除角色卡 %s\n" % (name, command[8:]))
                         else:
                             print("请在del后空一个空格输入要删除的角色卡名字")
+                # 显示所有角色卡
+                elif command[4:8] == "show":
+                    try:
+                        for roots, dirs, files in os.walk("player"):
+                            for i in files:
+                                print(i[:-4])
+                    except:
+                        print("出现错误，请检查输入")
                 else:
                     print("输入错误，请检查拼写或使用.help pc查看支持的指令")
             # 属性管理
