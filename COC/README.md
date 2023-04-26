@@ -4,7 +4,8 @@
 注意：所有数据都要是使用本程序产生的文件才能管理，不要拿着你跑团的卡过来玩，不可能兼容的！<br>
 注意：因为任何不当操作产生的后果均由操作者负责，（虽然不会有什么后果就是了），请正常使用本程序。
 # 下载地址
-[点击跳转最新下载地址](https://github.com/lingfengyu-dreaming/lingfengyu-dreaming/releases/tag/touniang0.0.8)
+点击跳转[最新在线下载地址](https://github.com/lingfengyu-dreaming/lingfengyu-dreaming/releases/tag/touniang0.0.8)<br>
+也可在[QQ频道【风铃的雨亭】](https://pd.qq.com/s/3a0mynd43)获取最新文件并反馈问题。
 # 版本更新日志
 v0.0.8 更新于2023.02.10，更新了检查更新功能<br>
 v0.0.7 更新于2023.02.08，更新了角色卡的显示功能，现在能够显示本地的所有角色卡。并且使用pyinstaller生成了exe，试图上传。<br>
