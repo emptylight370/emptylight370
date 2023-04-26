@@ -9,7 +9,7 @@
 使用<code>点击启动.bat</code>启动程序，仅使用一个控制台窗口。<br>需要在窗口内输入内容。<br>
 **不可以**输入要求以外的内容！<br>**不可以**不输入内容！<br>
 <code>卡池.csv</code>来源于[萌娘百科](https://zh.moegirl.org.cn/index.php?title=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/%E5%B9%B2%E5%91%98%E5%9B%BE%E9%89%B4&oldid=6523195)<br>
-干员信息使用[文本分割程序](https://github.com/lingfengyu-dreaming/SmallThingsFromEmptyLight/tree/main/txtdivision)提取<br>
+干员信息使用<code>文本分割程序</code>提取<br>
 **启动方式2**<br>
 目前正在进行Windows窗口控制程序的开发，目标是能够使用窗口来使用抽卡程序。<br>
 开发记录：已经能够使用抽卡和查看所有记录，删除抽卡记录，其他功能实现中。<br>
@@ -18,9 +18,9 @@
 ## 版本信息
 
 - <code>卡池.csv</code><code>v1.1</code>更新于<code>2023.01.21</code>，百科当时更新于<code>2023.01.17 21:14</code><br>
-对应的[抽卡程序](https://github.com/lingfengyu-dreaming/SmallThingsFromEmptyLight/blob/main/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E6%8A%BD%E5%8D%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/chouka.py)更新于<code>2023.01.21</code>，对应<code>v1.1</code>
+对应的<code>抽卡程序</code>更新于<code>2023.01.21</code>，对应<code>v1.1</code>，<code>GUI程序</code>更新于<code>2023.04.26</code>
 - <code>卡池.csv</code><code>v1.0</code>更新于<code>2023.01.05</code>，百科当时更新于<code>2022.12.15 18:16</code><br>
-对应的[抽卡程序](https://github.com/lingfengyu-dreaming/SmallThingsFromEmptyLight/blob/main/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E6%8A%BD%E5%8D%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/chouka.py)更新于<code>2023.01.05</code>，对应<code>v1.0</code>
+对应的<code>抽卡程序</code>更新于<code>2023.01.05</code>，对应<code>v1.0</code>
 
 ## 目标
 
