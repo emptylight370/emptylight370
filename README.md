@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lingfengyu-dreaming
-- Learn more in [my website](https://lingfengyu-dreaming.github.io)
+- Learn more in [my website](https://emptylight370.github.io)
 
 # What I had learned?
 
@@ -37,11 +37,11 @@
 
 # Count
 
-![EmptyLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingfengyu-dreaming&theme=tokyonight)
+![EmptyLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptylight370&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingfengyu-dreaming&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emptylight370&layout=compact)
 
 <!---
-lingfengyu-dreaming/lingfengyu-dreaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+emptylight370/emptylight370 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
