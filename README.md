@@ -39,7 +39,7 @@
 
 ![EmptyLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptylight370&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emptylight370&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emptylight370&layout=compact&theme=tokyonight)
 
 <!---
 emptylight370/emptylight370 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
