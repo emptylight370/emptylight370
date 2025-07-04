@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emptylight370
-- Learn more in [my website](https://emptylight370.github.io)
+- Learn more in [my blog(ghpage)](https://emptylight370.github.io) or [my blog(not ghpage)](https://blog.emptylight.cn)
 
 # What I had learned?
 
